@@ -26,7 +26,7 @@ Execute the necessary commands/batch file for the desired output.
 Developed by : SUDHIR KUMAR .R
 Reegister number : 212223230221
 ```
-## Exercise 1: Basic Directory and File Operations
+# Exercise 1: Basic Directory and File Operations
 
 ## Create a directory named "MyLab" on the desktop.
 ### COMMAND AND OUTPUT
@@ -79,7 +79,7 @@ mv Myfile.txt %userprofile%\Documents
 
 ![325095890-7a71bbce-a804-472a-96be-308a5862f6ba](https://github.com/Sudhirr5/Windows-basic-commands-batchscript/assets/139332214/fb5bd4f7-cff4-4d00-8327-e0c8b66f1328)
 
-## Exercise 2: Advanced Batch Scripting
+# Exercise 2: Advanced Batch Scripting
 
 ### Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
 ```
